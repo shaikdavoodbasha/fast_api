@@ -5,7 +5,7 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return{'Message':"Hello Bhaialj;klad;alksdf"}
+    return{'Message':"Hello Bhaialj"}
 
 @app.get("/greet")
 def greet():
