@@ -28,3 +28,77 @@ def create_student(student:Student):
         "age":student.age,
         "roll":student.roll
     }
+@app.post("/creat_student")
+def create_student(student:Student):
+    return {
+        "name":student.name,
+        "age":student.age,
+        "roll":student.roll
+    }
+    @app.post("/creat_student")
+def create_student(student:Student):
+    return {
+        "name":student.name,
+        "age":student.age,
+        "roll":student.roll
+    }@app.post("/creat_student")
+def create_student(student:Student):
+    return {
+        "name":student.name,
+        "age":student.age,
+        "roll":student.roll
+    }@app.post("/creat_student")
+def create_student(student:Student):
+    return {
+        "name":student.name,
+        "age":student.age,
+        "roll":student.roll
+    }@app.post("/creat_student")
+def create_student(student:Student):
+    return {
+        "name":student.name,
+        "age":student.age,
+        "roll":student.roll
+    }@app.post("/creat_student")
+def create_student(student:Student):
+    return {
+        "name":student.name,
+        "age":student.age,
+        "roll":student.roll
+    }@app.post("/creat_student")
+def create_student(student:Student):
+    return {
+        "name":student.name,
+        "age":student.age,
+        "roll":student.roll
+    }@app.post("/creat_student")
+def create_student(student:Student):
+    return {
+        "name":student.name,
+        "age":student.age,
+        "roll":student.roll
+    }@app.post("/creat_student")
+def create_student(student:Student):
+    return {
+        "name":student.name,
+        "age":student.age,
+        "roll":student.roll
+    }@app.post("/creat_student")
+def create_student(student:Student):
+    return {
+        "name":student.name,
+        "age":student.age,
+        "roll":student.roll
+    }@app.post("/creat_student")
+def create_student(student:Student):
+    return {
+        "name":student.name,
+        "age":student.age,
+        "roll":student.roll
+    }@app.post("/creat_student")
+def create_student(student:Student):
+    return {
+        "name":student.name,
+        "age":student.age,
+        "roll":student.roll
+    }
