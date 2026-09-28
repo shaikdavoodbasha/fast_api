@@ -9,7 +9,7 @@ def read_root():
 
 @app.get("/greet")
 def greet():
-    return {'Message':"HelloooHelloooHelloooHellooo"}
+    return {'Message':"hello bhai tere liye"}
 
 @app.get("/greet/")
 def greet_name(name:str,age:Optional[int] =None):
