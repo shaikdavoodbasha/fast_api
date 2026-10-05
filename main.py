@@ -15,7 +15,6 @@ def greet():
 def greet_name(name:str,age:Optional[int] =None):
     return {'Message':f"Hello{name} and you are age is {age}"}
 
-
 class Student(BaseModel):
     name:str
     age:int
